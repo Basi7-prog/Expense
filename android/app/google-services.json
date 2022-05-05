@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "77602541416",
+    "project_id": "yebet-ekawoch",
+    "storage_bucket": "yebet-ekawoch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77602541416:android:9cbc15e422e48ef40e10dd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77602541416-9ve67arkv4je2vdge5o2n97jtb120tip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMU5gHJ0RC3lwiLZ9cLzbv1kY-ZWLmCn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77602541416-9ve67arkv4je2vdge5o2n97jtb120tip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77602541416:android:f81a16345af87ef30e10dd",
+        "android_client_info": {
+          "package_name": "hulu.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77602541416-9ve67arkv4je2vdge5o2n97jtb120tip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMU5gHJ0RC3lwiLZ9cLzbv1kY-ZWLmCn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77602541416-9ve67arkv4je2vdge5o2n97jtb120tip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
