@@ -31,7 +31,6 @@ workflows:
     publishing:
       email:
         recipients:
-          - foo@example.com
-          - bar@example.com
+          - senbetobasleal@gmail.com
     artifacts:
       - build/ios/ipa/*.ipa
